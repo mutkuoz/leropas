@@ -1,4 +1,3 @@
-#Leropas by TheJupyter
 import random
 pScore = 0
 bScore = 0
