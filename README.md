@@ -1,0 +1,1 @@
+Leropas (LEarning ROck PAper Scissors) is a rock paper scissors bot which makes decisions based on the ratio of the most played option in the last five games. The bot is coded in Python and it has a basic decision based algorithm. It's my second Python project.
